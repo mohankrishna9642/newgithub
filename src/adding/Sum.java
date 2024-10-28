@@ -3,6 +3,7 @@ package adding;
 public class Sum {
 	public void add()
 	{
+	
 		int a=190;
 		int b=80;
 		int c=a+b;
