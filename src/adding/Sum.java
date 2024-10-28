@@ -5,7 +5,7 @@ public class Sum {
 	{
 	
 		int a=190;
-		int b=80;
+		int b=100;
 		int c=a+b;
 		System.out.println(c);
 		System.out.println("the data  modified here");
