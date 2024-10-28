@@ -4,7 +4,7 @@ public class Sum {
 	public void add()
 	{
 		int a=190;
-		int b=90;
+		int b=80;
 		int c=a+b;
 		System.out.println(c);
 		System.out.println("the data  modified here");
